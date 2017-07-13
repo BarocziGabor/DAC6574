@@ -1,7 +1,7 @@
 /*
  Name:		DAC6574.h
  Created:	6/27/2017 1:27:25 PM
- Author:	gabor.baroczi.ext
+ Author:	Baroczi Gabor
  Editor:	http://www.visualmicro.com
 */
 
